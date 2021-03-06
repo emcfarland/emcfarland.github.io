@@ -1,0 +1,119 @@
+{
+    "meta":{
+      "theme": "Stackoverflow"
+    },
+    "basics": {
+        "name": "Elliott McFarland",
+        "label": "Data Scientist",
+        "picture": "static/images/headshot.jpg",
+        "email": "elliottmcf@gmail.com",
+        "website": "https://emcfarland.github.io/",
+        "summary": "I am a high school educator with experience in full stack web development.",
+        "location": {
+            "city": "Newark",
+            "countryCode": "US",
+            "region": "New Jersey"
+        },
+        "profiles": [
+            {
+                "network": "GitHub",
+                "username": "emcfarland",
+                "url": "http://github.com/emcfarland"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "St. Benedict's Preparatory School",
+            "position": "Teacher - Math Department",
+            "website": "www.sbp.org",
+            "startDate": "Teacher since 2016-07-01, Department Chair since 2020-07-01",
+            "summary": "St. Benedict's is a Catholic prep school in the heart of Newark that seeks to empower students from the Newark area with leadership experience and excellent education.",
+            "highlights": [
+                ""
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institution": "Rensselaer Poytechnic Institue",
+            "area": "Mechanical Engineering",
+            "studyType": "Bachelor",
+            "startDate": "2012-08",
+            "endDate": "2016-05"
+        },
+        {
+            "institution": "Rutgers University",
+            "area": "Data Science",
+            "studyType": "Certificate",
+            "startDate": "2020-09",
+            "endDate": "2021-03"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Full Stack Web Development",
+            "level": "Intermediate",
+            "keywords": [
+                "AWS",
+                "CSS",
+                "Google Colab",
+                "Heroku",
+                "HTML",
+                "JavaScript",
+                "Python-Flask",
+                "MongoDB",
+                "Postgres"
+            ]
+        },
+        {
+            "name": "Data Analysis and Visualization",
+            "level": "Intermediate",
+            "keywords": [
+                "Excel", 
+                "Google Sheets",
+                "Google Apps Script",
+                "JavaScript", 
+                "Python",
+                "R",
+                "Tableau",
+                "VBA"
+            ]
+        },
+        {
+            "name": "Professional",
+            "level": "Expert",
+            "keywords": [
+                "Google Suite",
+                "Microsoft Office"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Hiking / Backpacking"
+        },
+        {
+            "name": "Fencing",
+            "keywords": [
+                "Coaching",
+                "Competing"
+            ]
+        },
+        {
+            "name": "Lambda Chi Alpha Fraternity"
+        }
+    ],
+    "references": [
+        {
+            "name": "",
+            "reference": ""
+        }
+    ]
+}
