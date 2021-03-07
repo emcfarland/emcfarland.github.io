@@ -4,11 +4,11 @@
     },
     "basics": {
         "name": "Elliott McFarland",
-        "label": "Data Scientist",
+        "label": "Data Analyst / Web Developer",
         "picture": "https://raw.githubusercontent.com/emcfarland/emcfarland.github.io/main/static/images/headshot.jpg",
         "email": "elliottmcf@gmail.com",
         "website": "https://emcfarland.github.io/",
-        "summary": "I am a high school educator with experience in full stack web development.",
+        "summary": "I am a high school educator with experience in full stack web development. I am passionate about using data to develop creative solutions to complex problems.",
         "location": {
             "city": "Newark",
             "countryCode": "US",
@@ -19,18 +19,29 @@
                 "network": "GitHub",
                 "username": "emcfarland",
                 "url": "http://github.com/emcfarland"
+            },
+            {
+                "network": "LinkedIn",
+                "username": "elliott-mcfarland",
+                "url": "https://www.linkedin.com/in/elliott-mcfarland/"
             }
         ]
     },
     "work": [
         {
-            "company": "St. Benedict's Preparatory School",
-            "position": "Teacher - Math Department",
+            "company": "St. Benedict`s Preparatory School",
             "website": "www.sbp.org",
             "startDate": "2016-07-01",
             "summary": "St. Benedict's is a Catholic prep school in the heart of Newark that seeks to empower students from the Newark area with leadership experience and excellent education.",
+            "position": "Teacher",
             "highlights": [
-                ""
+                "Named chair of Math Department in 2020",
+                "Updated 7-12 curriculum to better serve the middle school and newly added girls' high school",
+                "Interviewed applicants, mentored new hires",
+                "Analyzed student performance and provided remediation to underperforming students and teachers",
+                "Adapted Algebra 2 curriculum to include practical applications, consistently increased interest in calculus course",
+                "Created spreadsheet course, taught students professional data entry and analysis skills",
+                "Co-created engineering design course, secured funding for K-12 STEM program"
             ]
         }
     ],
@@ -52,7 +63,7 @@
     ],
     "skills": [
         {
-            "name": "Frontend",
+            "name": "Front-End",
             "level": "Intermediate",
             "keywords": [
                 "CSS",
@@ -61,7 +72,7 @@
             ]
         },
         {
-            "name": "Backend",
+            "name": "Back-End",
             "level": "Intermediate",
             "keywords": [
                 "AWS",
@@ -96,9 +107,6 @@
     ],
     "interests": [
         {
-            "name": "Hiking / Backpacking"
-        },
-        {
             "name": "Fencing",
             "keywords": [
                 "Coaching",
@@ -106,13 +114,10 @@
             ]
         },
         {
-            "name": "Lambda Chi Alpha Fraternity"
-        }
-    ],
-    "references": [
+            "name": "Hiking / Backpacking"
+        },
         {
-            "name": "",
-            "reference": ""
+            "name": "Lambda Chi Alpha Fraternity"
         }
     ]
 }
