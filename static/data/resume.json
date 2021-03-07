@@ -1,11 +1,11 @@
 {
     "meta":{
-      "theme": "Stackoverflow"
+      "theme": "spartan"
     },
     "basics": {
         "name": "Elliott McFarland",
         "label": "Data Scientist",
-        "picture": "static/images/headshot.jpg",
+        "picture": "https://raw.githubusercontent.com/emcfarland/emcfarland.github.io/main/static/images/headshot.jpg",
         "email": "elliottmcf@gmail.com",
         "website": "https://emcfarland.github.io/",
         "summary": "I am a high school educator with experience in full stack web development.",
@@ -27,7 +27,7 @@
             "company": "St. Benedict's Preparatory School",
             "position": "Teacher - Math Department",
             "website": "www.sbp.org",
-            "startDate": "Teacher since 2016-07-01, Department Chair since 2020-07-01",
+            "startDate": "2016-07-01",
             "summary": "St. Benedict's is a Catholic prep school in the heart of Newark that seeks to empower students from the Newark area with leadership experience and excellent education.",
             "highlights": [
                 ""
@@ -52,16 +52,21 @@
     ],
     "skills": [
         {
-            "name": "Full Stack Web Development",
+            "name": "Frontend",
+            "level": "Intermediate",
+            "keywords": [
+                "CSS",
+                "HTML",
+                "JavaScript"
+            ]
+        },
+        {
+            "name": "Backend",
             "level": "Intermediate",
             "keywords": [
                 "AWS",
-                "CSS",
-                "Google Colab",
+                "GitHub Pages",
                 "Heroku",
-                "HTML",
-                "JavaScript",
-                "Python-Flask",
                 "MongoDB",
                 "Postgres"
             ]
@@ -71,9 +76,9 @@
             "level": "Intermediate",
             "keywords": [
                 "Excel", 
-                "Google Sheets",
                 "Google Apps Script",
-                "JavaScript", 
+                "Google Colab",
+                "Google Sheets",
                 "Python",
                 "R",
                 "Tableau",
@@ -82,17 +87,11 @@
         },
         {
             "name": "Professional",
-            "level": "Expert",
+            "level": "Master",
             "keywords": [
                 "Google Suite",
                 "Microsoft Office"
             ]
-        }
-    ],
-    "languages": [
-        {
-            "language": "English",
-            "fluency": "Native speaker"
         }
     ],
     "interests": [

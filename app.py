@@ -10,3 +10,7 @@ def home():
 @app.route("/projects")
 def project():
     print("Responding to the project page request...")
+
+if __name__ == "__main__":
+    app.run(debug=True)
+    
